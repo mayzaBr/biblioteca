@@ -1,16 +1,16 @@
 .cabeçalho__menu-hamburguer{
-    widthe: 24px;
+    width: 24px;
     height: 24px;
-    backgroud-image; url("../img/Menu.svg");
-    diplay:inline-block;
+    background-image: url("../img/Menu.svg");
+    display:inline-block;
 }
 .cabeçalho{
     background-color: var(--branco);
-    displey: flex;
-    jutify-content: space-between;
+    display: flex;
+    justify-content: space-between;
 
 }
 .container{ 
-  display: flex;
-  align-items: center;
+    display: flex;
+    align-items: center;
 }
